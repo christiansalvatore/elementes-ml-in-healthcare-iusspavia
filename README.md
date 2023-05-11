@@ -25,5 +25,5 @@ Contact: christian.salvatore@iusspavia.it
 <br>
 
 ## Material
-[__[Slides]__]() - coming soon
-[__[Literature]__]() - coming soon
+[__[Slides]__](https://drive.google.com/drive/folders/1WT20i33_0vgru1gYtm1_K94vTqsyeruf?usp=sharing)
+[__[Literature]__](https://drive.google.com/drive/folders/1u_5N2udaDeVSmkMRBCbAqy-eVN888EA8?usp=sharing)
