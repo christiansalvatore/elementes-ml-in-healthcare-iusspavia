@@ -17,7 +17,7 @@ Contact: christian.salvatore@iusspavia.it
 	* Overview
 	* Machine learning in healthcare: introduction with clinical examples and vocabulary
 * __Lesson #2__ __(May 12, 2023 \| 13:30-16:00) **Sala Riunioni**__ <br>
-	
+	* Machine learning in healthcare: validation and evaluation of models
 * __Lesson #3__ __(June 8, 2023 \| 14:00-16:30) **Sala Riunioni**__ <br>
 
 * __Lesson #4__ __(June 15, 2023 \| 14:00-16:30) **Sala Riunioni**__ <br>
@@ -26,4 +26,5 @@ Contact: christian.salvatore@iusspavia.it
 
 ## Material
 [__[Slides]__](https://drive.google.com/drive/folders/1WT20i33_0vgru1gYtm1_K94vTqsyeruf?usp=sharing)
+[__[Code]__](https://drive.google.com/drive/folders/10co4NLSGo2tDhc8SjuZuD9uThRUEapJb?usp=sharing)
 [__[Literature]__](https://drive.google.com/drive/folders/1u_5N2udaDeVSmkMRBCbAqy-eVN888EA8?usp=sharing)
