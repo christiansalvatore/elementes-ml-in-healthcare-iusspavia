@@ -26,7 +26,7 @@ Contact: christian.salvatore@iusspavia.it
 <br>
 
 ## Material
-[__[Slides]__]()
+[__[Slides]__](https://github.com/christiansalvatore/elements-ml-in-healthcare-iusspavia/tree/main/slides)
 
 ## Archive
 ## Program (2022-2023)
