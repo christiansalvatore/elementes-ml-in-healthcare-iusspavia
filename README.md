@@ -18,6 +18,10 @@ Contact: christian.salvatore@iusspavia.it
 	* Machine learning in healthcare: introduction with clinical examples and vocabulary
  	* Machine learning in healthcare: validation and evaluation of models
 * __Lesson #2__ __(January 19, 2024 \| 14:30-17:00) **Aula 1 (Marelli)**__ <br>
+	* Feature extraction
+	* Feature selection
+ 	* Training of a classifier: Support Vector Machine
+  	* Radiomics
 
 * __Lesson #3__ __(January 26, 2024 \| 14:30-17:00) **Aula 1 (Marelli)**__ <br>
 
