@@ -24,6 +24,11 @@ Contact: christian.salvatore@iusspavia.it
   	* Radiomics
 
 * __Lesson #3__ __(January 26, 2024 \| 14:30-17:00) **Aula 1 (Marelli)**__ <br>
+	* Radiomics
+ 	* Artificial Neural Networks
+	* Deep Learning
+ 	* Explainable AI
+  	* Image Segmentation
 
 * __Lesson #4__ __(February 2, 2024 \| 14:30-17:00) **Aula 1 (Marelli)**__ <br>
 
