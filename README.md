@@ -31,6 +31,8 @@ Contact: christian.salvatore@iusspavia.it
   	* Image Segmentation
 
 * __Lesson #4__ __(February 2, 2024 \| 14:30-17:00) **Aula 1 (Marelli)**__ <br>
+  	* Image Segmentation
+  	* Exercise on python about blood cell segmentation via deep learning
 
 <br>
 
